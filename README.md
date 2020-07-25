@@ -1,6 +1,6 @@
 ### Hi, I'm Fahad&mdash;@fmunirdev 👨‍💻
 
-![image](./home-page.gif)
+![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 
 I'm a computer science student 🎓 who is passionate about web and mobile application development. 🚀 I've been continually evaluating and upgrading my skills to stay 🎯 at the cutting edge technologies.
 
@@ -12,7 +12,7 @@ I'm a computer science student 🎓 who is passionate about web and mobile appli
 
 | Languages | Libraries/Frameworks | Tools | Platforms |
 |-|-|-|-|
-|  ![](icons24/javascript.png) ![](icons24/typescript.png) ![](icons24/python.png) ![](icons24/java.png)  | ![](icons24/angular.png) ![](icons24/react.png) ![](icons24/gatsby.png) ![](icons24/django.png) ![](icons24/flask.png) ![](icons24/flutter.png)  |  ![](icons24/git.png) ![](icons24/docker.png)  |  ![](icons24/firebase.png) ![](icons24/aws.png)  |
+|  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/javascript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/typescript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/python.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/java.png)  | ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/angular.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/react.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/gatsby.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/expressjs.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/django.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flask.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flutter.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/ionic.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/git.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/docker.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/auth0.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/firebase.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/aws.png)  |
 
 ### Find me around the web 🌐
 
