@@ -5,11 +5,9 @@
 
 ### Find me around the web 🌐
 
-💁 My personal website [fmunirdev.github.io](https://fmunirdev.github.io/)
-
-🤹‍♂️ Sharing updates on [Twitter](https://twitter.com/fmunirdev)
-
-💼 My resume on [LinkedIn](https://www.linkedin.com/in/fmunirdev/)
+- Personal website [fmunirdev.github.io](https://fmunirdev.github.io/) 💁
+- Sharing updates on [Twitter](https://twitter.com/fmunirdev) 🤹‍♂️
+- Resume on [LinkedIn](https://www.linkedin.com/in/fmunirdev/) 💼
 
 <!--
 **fmunirdev/fmunirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
