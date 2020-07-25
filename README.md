@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Fahad&mdash;@fmunirdev 👋 👨‍💻
+
+![image](home-page.gif)
+<!-- I'm a computer science student and full stack developer based in Lahore, Pakistan.  -->
+
+### Find me around the web 🌐
+
+💁 My personal website [fmunirdev.github.io](https://fmunirdev.github.io/)
+
+🤹‍♂️ Sharing updates on [Twitter](https://twitter.com/fmunirdev)
+
+💼 My resume on [LinkedIn](https://www.linkedin.com/in/fmunirdev/)
 
 <!--
 **fmunirdev/fmunirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
