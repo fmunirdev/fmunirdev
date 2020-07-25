@@ -1,6 +1,6 @@
 ### Hi, I'm Fahad&mdash;@fmunirdev 👋 👨‍💻
 
-![image](home-page.gif)
+![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 <!-- I'm a computer science student and full stack developer based in Lahore, Pakistan.  -->
 
 ### Find me around the web 🌐
