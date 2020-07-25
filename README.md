@@ -1,7 +1,18 @@
-### Hi, I'm Fahad&mdash;@fmunirdev 👋 👨‍💻
+### Hi, I'm Fahad&mdash;@fmunirdev 👨‍💻
 
-![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
-<!-- I'm a computer science student and full stack developer based in Lahore, Pakistan.  -->
+![image](./home-page.gif)
+
+I'm a computer science student 🎓 who is passionate about web and mobile application development. 🚀 I've been continually evaluating and upgrading my skills to stay 🎯 at the cutting edge technologies.
+
+### Interests 🚩
+- Cloud Native App Development
+- PWA & JAMstack
+
+### Tools & technologies 🧰
+
+| Languages | Libraries/Frameworks | Tools | Platforms |
+|-|-|-|-|
+|  ![](icons24/javascript.png) ![](icons24/typescript.png) ![](icons24/python.png) ![](icons24/java.png)  | ![](icons24/angular.png) ![](icons24/react.png) ![](icons24/gatsby.png) ![](icons24/django.png) ![](icons24/flask.png) ![](icons24/flutter.png)  |  ![](icons24/git.png) ![](icons24/docker.png)  |  ![](icons24/firebase.png) ![](icons24/aws.png)  |
 
 ### Find me around the web 🌐
 
