@@ -2,7 +2,7 @@
 
 ![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 
-I'm a computer science student 🎓 who is passionate about web and mobile application development. 🚀 I've been continually evaluating and upgrading my skills to stay 🎯 at the cutting edge technologies.
+I'm a computer science student 🎓 who is passionate about web and mobile application development. 🚀 I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies. 🎯
 
 ### Interests 🚩
 - Cloud Native App Development
