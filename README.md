@@ -2,7 +2,7 @@
 
 ![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 
-I'm a computer science student 🎓 who is passionate about web and mobile application development. 🚀 I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies. 🎯
+I'm a full-stack web developer who specializes in JavaScript and Python technologies, and has a passion for DevOps, Cloud-native development, and Microservices architectures. 🚀 I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies. 🎯
 
 ### Interests 🚩
 - Cloud Native App Development
@@ -12,7 +12,7 @@ I'm a computer science student 🎓 who is passionate about web and mobile appli
 
 | Languages | Libraries/Frameworks | Tools | Platforms |
 |-|-|-|-|
-|  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/javascript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/typescript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/python.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/java.png)  | ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/angular.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/react.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/gatsby.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/expressjs.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/django.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flask.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flutter.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/ionic.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/git.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/docker.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/auth0.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/firebase.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/aws.png)  |
+|  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/javascript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/typescript.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/python.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/java.png)  | ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/angular.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/react.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/gatsby.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/expressjs.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/django.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flask.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/flutter.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/ionic.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/git.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/jenkins.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/docker.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/k8s.png)  |  ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/linux.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/aws.png) ![](https://github.com/fmunirdev/fmunirdev/blob/master/icons24/firebase.png)  |
 
 ### Find me around the web 🌐
 
