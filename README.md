@@ -7,6 +7,7 @@ I'm a full-stack web developer who specializes in JavaScript and Python technolo
 ### Interests 🚩
 - Cloud Native App Development
 - PWA & JAMstack
+- WebAssembly
 
 ### Tools & technologies 🧰
 
