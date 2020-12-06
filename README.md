@@ -2,7 +2,7 @@
 
 ![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 
-I'm a full-stack web developer who specializes in JavaScript and Python technologies, and has a passion for DevOps, Cloud-native development, and Microservices architectures. I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies.
+A full-stack developer who specializes in JavaScript and Python technologies, and has a passion for DevOps, Cloud-native development, and Microservices architectures. I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies.
 
 ### Interests 🚩
 - Cloud Native App Development
@@ -17,9 +17,9 @@ I'm a full-stack web developer who specializes in JavaScript and Python technolo
 
 ### Find me around the web 🌐
 
-- Personal website [fmunirdev.github.io](https://fmunirdev.github.io/) 💁
-- Sharing updates on [Twitter](https://twitter.com/fmunirdev) 🤹‍♂️
-- Resume on [LinkedIn](https://www.linkedin.com/in/fmunirdev/) 💼
+- 💁 Personal website [fmunirdev.github.io](https://fmunirdev.github.io/)
+- 🤹‍♂️ Sharing updates on [Twitter](https://twitter.com/fmunirdev)
+- 💼 Resume on [LinkedIn](https://www.linkedin.com/in/fmunirdev/)
 
 <!--
 **fmunirdev/fmunirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
