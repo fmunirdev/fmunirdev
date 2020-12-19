@@ -2,11 +2,11 @@
 
 ![image](https://github.com/fmunirdev/fmunirdev/blob/master/home-page.gif)
 
-A full-stack developer who specializes in JavaScript and Python technologies, and has a passion for DevOps, Cloud-native development, and Microservices architectures. I've been continually evaluating and upgrading my skills to stay at the cutting edge technologies.
+A full-stack engineer with a focus on Cloud-native app development. Loves JavaScript, Python, and helping people to understand that it’s easy to code. He has been continually evaluating and upgrading his skills to stay at the cutting edge technologies.
 
 ### Interests 🚩
 - Cloud Native App Development
-- PWA & JAMstack
+- Serverless & JAMstack
 - WebAssembly
 
 ### Tools & technologies 🧰
