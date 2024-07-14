@@ -5,9 +5,8 @@
 A software engineer focusing on building web-based systems using JavaScript, Python, and the cloud. He has been continually evaluating and upgrading his skills to stay at the cutting-edge technologies.
 
 ### Interests 🚩
-- Cloud Native App Development
-- Serverless & JAMstack
-- WebAssembly
+- Backend and data systems
+- Cloud and Serverless
 
 ### Tools & technologies 🧰
 
